@@ -23,7 +23,7 @@
 #include <vector>
 #include <unordered_set>
 
-#include "obindex2/binary_descriptor.h"
+#include "include/obindex2/binary_descriptor.h"
 
 namespace obindex2 {
 

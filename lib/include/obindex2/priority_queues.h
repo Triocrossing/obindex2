@@ -26,8 +26,8 @@
 #include <sstream>
 #include <vector>
 
-#include "obindex2/binary_descriptor.h"
-#include "obindex2/binary_tree_node.h"
+#include "include/obindex2/binary_descriptor.h"
+#include "include/obindex2/binary_tree_node.h"
 
 namespace obindex2 {
 

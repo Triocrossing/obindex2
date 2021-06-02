@@ -23,7 +23,7 @@
 
 #include "catch/catch.hpp"
 
-#include "obindex2/binary_descriptor.h"
+#include "include/obindex2/binary_descriptor.h"
 
 TEST_CASE("BD: self-created descriptors", "[bdesc]") {
   obindex2::BinaryDescriptor d1, d2;

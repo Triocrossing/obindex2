@@ -26,8 +26,8 @@
 #include <limits>
 #include <unordered_set>
 
-#include "obindex2/binary_descriptor.h"
-#include "obindex2/priority_queues.h"
+#include "include/obindex2/binary_descriptor.h"
+#include "include/obindex2/priority_queues.h"
 
 namespace obindex2 {
 

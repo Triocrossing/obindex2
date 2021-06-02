@@ -17,7 +17,7 @@
 * along with obindex2. If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include "obindex2/binary_descriptor.h"
+#include "include/obindex2/binary_descriptor.h"
 
 namespace obindex2 {
 

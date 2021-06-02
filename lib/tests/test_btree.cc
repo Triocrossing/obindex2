@@ -19,7 +19,7 @@
 
 #include <opencv2/xfeatures2d.hpp>
 
-#include "obindex2/binary_tree.h"
+#include "include/obindex2/binary_tree.h"
 
 int main() {
   // Creating feature detector and descriptor

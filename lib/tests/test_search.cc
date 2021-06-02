@@ -24,7 +24,7 @@
 #include <boost/filesystem.hpp>
 #include <opencv2/xfeatures2d.hpp>
 
-#include "obindex2/binary_index.h"
+#include "include/obindex2/binary_index.h"
 
 void getFilenames(const std::string& directory,
                   std::vector<std::string>* filenames) {

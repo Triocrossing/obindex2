@@ -25,7 +25,7 @@
 #include <unordered_map>
 #include <vector>
 
-#include "obindex2/binary_tree.h"
+#include "include/obindex2/binary_tree.h"
 
 namespace obindex2 {
 
